@@ -1,10 +1,10 @@
 
 \# codepath-prework
-# Prework - *IOSPreworkbyObinnaEgbune*
+# Prework - *IOS101PreworkbyObinnaEgbune*
 
 Submitted by: **Obinna Egbune**
 
-**IOSPreworkbyObinnaEgbune** is an app that can change colors by simply clicking on the "Change" button. 
+**IOS101PreworkbyObinnaEgbune** is an app that can change colors by simply clicking on the "Change" button. 
 
 Time spent: **3** hours spent in total
 
@@ -32,7 +32,7 @@ HarmonyHub is an ideal choice as it conveys the idea of a central place where in
 
 ## Notes
 
-I had trouble trying to navigate the tools to create the app. I had to read closely to make sure I followed through the instructions properly. I was also dragging the storyboard to the wrong part of the "ViewController" class. I was trying to figure it out, so I had to re-do it 2 times to get it right. Nevertheless, I enjoyed doing this project and hope to do way more with Swift!
+I had trouble trying to navigate the tools to create the app. I had to read closely to make sure I followed through the instructions properly. I was also dragging the storyboard to the wrong part of the "ViewController" class. I was trying to figure it out, so I had to re-do it 2 times to get it right. Nevertheless, I enjoyed doing this project and hope to code way more with Swift!
 
 ## License
 

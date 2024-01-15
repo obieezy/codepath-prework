@@ -1,12 +1,12 @@
 
 \# codepath-prework
-# Prework - *Name of App Here*
+# Prework - *Obinna Egbune*
 
-Submitted by: **Your Name Here**
+Submitted by: **Obinna Egbune**
 
-**Name of your app** is an app that... [TODO] 
+**Prework for IOS101** is an app that can change colors by simply clicking on the "Change" button. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 

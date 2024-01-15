@@ -17,9 +17,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+<iframe src="https://giphy.com/embed/QvnRrydwUreQUD69IF" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QvnRrydwUreQUD69IF">via GIPHY</a></p>
 
-
-<iframe src="https://giphy.com/embed/QvnRrydwUreQUD69IF" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QvnRrydwUreQUD69IF">via GIPHY</a></p>![IOS101preworkwalkthrough](https://github.com/obieezy/codepath-prework/assets/154321428/612972aa-d122-4ae6-b0e2-e8e73d88fb77)
 
 
 ## App Brainstorming (Step 4)

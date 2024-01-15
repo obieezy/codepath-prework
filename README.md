@@ -17,9 +17,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+<iframe src="https://giphy.com/embed/QvnRrydwUreQUD69IF" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QvnRrydwUreQUD69IF">via GIPHY</a></p>
 
 ## App Brainstorming (Step 4)
 1. Tiktok: this app is great for all audiences all across the border, but is more geared towards the youth. TikTok is an app that includes nice features such as uploading your own TikTok, direct messaging,  and reposting a TikTok that you like or is relatable. To upload, you might want to upload stuff from your camera roll, or you can make your tiktoks! Creating Tiktoks is easy and fun, you can also use captions and text-to-speech to describe the Tiktok that is created.

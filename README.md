@@ -17,7 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd0bXRwbmZud3d3NGp0aW91MmszbzQ0d2JkMDVlcXE0ZGh5ZjEybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QvnRrydwUreQUD69IF/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhzcjBlYTR4NG5udXkzNW44anJ4NHNvaWxrMWFlYXMwMWx0OHEwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jxVotHpIpsjUXBnF46/giphy.gif)
 
 
 

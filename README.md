@@ -17,8 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<iframe src="https://giphy.com/embed/QvnRrydwUreQUD69IF" width="222" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/QvnRrydwUreQUD69IF">via GIPHY</a></p>
-
+<div style="position: relative; padding-bottom: 212.59842519685037%; height: 0;"><iframe src="https://www.loom.com/embed/d1656d67aa0a43f2871cc59b43c106f2?sid=4af94a32-3e44-4e8a-9a29-026f12b8a5a9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ## App Brainstorming (Step 4)

@@ -16,13 +16,10 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-<div>
-    <a href="https://www.loom.com/share/d1656d67aa0a43f2871cc59b43c106f2">
-    </a>
-    <a href="https://www.loom.com/share/d1656d67aa0a43f2871cc59b43c106f2">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d1656d67aa0a43f2871cc59b43c106f2-1705364879296-with-play.gif">
-    </a>
-  </div>
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnd0bXRwbmZud3d3NGp0aW91MmszbzQ0d2JkMDVlcXE0ZGh5ZjEybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QvnRrydwUreQUD69IF/giphy.gif)
+
+
 
 ## App Brainstorming (Step 4)
 1. Tiktok: this app is great for all audiences all across the border, but is more geared towards the youth. TikTok is an app that includes nice features such as uploading your own TikTok, direct messaging,  and reposting a TikTok that you like or is relatable. To upload, you might want to upload stuff from your camera roll, or you can make your tiktoks! Creating Tiktoks is easy and fun, you can also use captions and text-to-speech to describe the Tiktok that is created.

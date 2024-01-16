@@ -17,8 +17,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 212.59842519685037%; height: 0;"><iframe src="https://www.loom.com/embed/d1656d67aa0a43f2871cc59b43c106f2?sid=4af94a32-3e44-4e8a-9a29-026f12b8a5a9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+   <a href="https://www.loom.com/share/d1656d67aa0a43f2871cc59b43c106f2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d1656d67aa0a43f2871cc59b43c106f2-1705364879296-with-play.gif">
+    </a>
 
 ## App Brainstorming (Step 4)
 1. Tiktok: this app is great for all audiences all across the border, but is more geared towards the youth. TikTok is an app that includes nice features such as uploading your own TikTok, direct messaging,  and reposting a TikTok that you like or is relatable. To upload, you might want to upload stuff from your camera roll, or you can make your tiktoks! Creating Tiktoks is easy and fun, you can also use captions and text-to-speech to describe the Tiktok that is created.
